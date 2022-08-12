@@ -1,0 +1,20 @@
+.stat{
+    background-color: #fff;
+}
+
+.stat-container{
+    background-color: #1c1c1c;
+    color: #fff;
+    justify-self: center;
+}
+
+.row{
+    justify-content: center;
+}
+
+.stat-logo{
+    font-size: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
